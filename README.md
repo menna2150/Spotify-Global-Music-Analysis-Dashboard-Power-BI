@@ -6,6 +6,9 @@ A comprehensive Power BI dashboard analyzing Spotify's Global Top 50 chart data,
 ![Image Alt](https://github.com/menna2150/Spotify-Global-Music-Analysis-Dashboard-Power-BI/blob/203a32b88a0418fe0f555de01148b7498f74e664/Screenshot%202026-03-09%20020034.png)
 
 ![Image Alt](https://github.com/menna2150/Spotify-Global-Music-Analysis-Dashboard-Power-BI/blob/e402d6984411c2b322f1272727d48629244ca38b/Screenshot%202026-03-09%20020053.png)
+
+![Image Alt](https://github.com/menna2150/Spotify-Global-Music-Analysis-Dashboard-Power-BI/blob/02d35e477209eaec0dfc782e5232a547ddd265f9/Screenshot%202026-03-09%20020108.png)
+
 ## 📊 Dashboard Pages
 
 **Overview Page**
