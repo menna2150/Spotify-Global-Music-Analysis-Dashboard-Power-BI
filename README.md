@@ -1,7 +1,7 @@
 # Spotify Top 50 Dashboard – Power BI
 
 A comprehensive Power BI dashboard analyzing Spotify's Global Top 50 chart data, designed for music analysts, playlist managers, and marketing teams to monitor song and artist performance.
-![Image Alt]([image_url](https://github.com/menna2150/Spotify-Global-Music-Analysis-Dashboard-Power-BI/blob/e11cbd89fcfdc8638ac971e919f596e7744c7a27/Screenshot%202026-03-09%20020014.png)
+![Image Alt](https://github.com/menna2150/Spotify-Global-Music-Analysis-Dashboard-Power-BI/blob/e11cbd89fcfdc8638ac971e919f596e7744c7a27/Screenshot%202026-03-09%20020014.pngimage_url)
 
 ## 📊 Dashboard Pages
 
